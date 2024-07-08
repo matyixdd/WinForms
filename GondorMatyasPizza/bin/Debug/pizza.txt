@@ -1,0 +1,3 @@
+hungarian;100;130000;
+olajbogyos;234;1244451;
+baracklekvaros;22220;12220000;
